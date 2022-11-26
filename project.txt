@@ -1,0 +1,20 @@
+Corpus study that aims at determining which contexts dis/allow the licencing of clefts.
+
+Only spoken corpora.
+
+Corpora sourced in different ways to avoid sampling errors:
+
+- ORFEO project https://journals.openedition.org/corpus/2936?lang=en
+- ESLO1 2 http://eslo.huma-num.fr/ (ESLO 1 excluded to avoid diachronic biases; 'école' and 'livres pour enfants' categories excluded because of reasons determined in Baunaz&Bonan)
+- Corpus of court-métrages (Bonan 2022)
+- Corpus of podcasts and interviews (Bonan 2022)
+
+Composition:
+
+- ORFEO: total samples analysed: XX, total clefts extracted: XX (XX declarative, XX interrogative)
+- ESLO 2: total samples analysed: 659 enregistrements, total clefts extracted: 81560 (XX declarative, XX interrogative)
+- Court-métrages: total samples analysed: XX, total clefts extracted: XX (XX declarative, XX interrogative)
+- Podcasts and interviews: total samples analysed: XX, total clefts extracted: XX (XX declarative, XX interrogative)
+
+Italian:
+- corpus AVI-API https://parlaritaliano.studiumdipsum.it/index.php/it/corpora-di-parlato/673-corpus-avip-api
